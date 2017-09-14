@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DemocracyBot
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ fixBallots()
+comment2.params=
+comment2.target=void\ moveToNextArea()
+comment3.params=doPlace
+comment3.target=void\ putOrPlaceBeepers(boolean)
+numComments=4

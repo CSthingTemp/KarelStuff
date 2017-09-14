@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ plantBeepers()
+comment2.params=
+comment2.target=void\ beeperMove()
+comment3.params=
+comment3.target=boolean\ leftWallEmpty()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Problem3
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ closeAllWindows()
+comment2.params=
+comment2.target=boolean\ beeperWindow()
+comment3.params=
+comment3.target=void\ returnToStart()
+numComments=4
