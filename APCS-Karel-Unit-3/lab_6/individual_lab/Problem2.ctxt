@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=void\ buildFence()
+comment3.params=
+comment3.target=void\ getToCorner()
+comment4.params=
+comment4.target=boolean\ nextToWall()
+numComments=5
